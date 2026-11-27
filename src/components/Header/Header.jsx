@@ -213,7 +213,7 @@ const Header = () => {
             <div className=" flex items-center ustify-between p-[70px] gap-[20px]">
               <div>
 
-                <img className="w-[210px] h-[210px] cursor-pointer" src={birmarket} alt="birmarket" />
+                <img className="min-w-[210px] h-[210px] cursor-pointer" src={birmarket} alt="birmarket" />
 
               </div>
 
